@@ -6,9 +6,9 @@
 
 | Field | Detail |
 | :--- | :--- |
-| **Pentester Name** | Kandahura Callimus Ayine |
+| **Pentester Name** | Moses Makungu|
 | **Program / Batch** | Networkwalks Cybersecurity Program, Batch B084 |
 | **Target** | `medirozahospital.com` (practice/lab target) |
 | **Test Type** | Black-box penetration test |
-| **Test Date** | 24 November 2026 |
+| **Test Date** | 27 November 2026 |
 | **Milestones Completed** | M1 (Authentication Bypass), M2 (Password Cracking & Data Review), M3 (Critical Data Exposure) |
